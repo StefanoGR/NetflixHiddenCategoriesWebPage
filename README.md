@@ -7,6 +7,7 @@ http://www.netflix.com/browse/genre/###
 
 ...where the "###" is where you put the code that relates to the particular category you're looking for. For example, 35800 is steamy romantic movies, 11140 is supernatural thrillers and 67879 is Korean TV shows.
 
+[Try it here](http://htmlpreview.github.io/?https://github.com/StefanoGR/NetflixHiddenCategoriesWebPage/blob/master/Home.html)
 
 **How it works**
 
